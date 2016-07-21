@@ -9,11 +9,11 @@ I made a live-updating, threaded discussion alternative to reddit and slack call
 
 [FlowChat](http://flowchat.tk) is an open-source, self-hostable, **live-updating** discussion platform, featuring chatrooms with threaded conversations, and voting.
 
-It can act as an alternative to forums, as a private team communication platform(like slack), a content creation platform(like reddit), or a voting/polling platform like [referendum](https://referendum.ml).
+It can act as an alternative to forums, as a private team communication platform (like slack), a content creation platform (like reddit), or a voting/polling platform like [referendum](https://referendum.ml).
 
 Flowchat tries to solve the problem of having a fluid, free-feeling group chat, while allowing for side conversations so that every comment isn't at the top level. Multiple conversations can take place at once, without interrupting the flow of the chatroom.
 
-It uses [range voting](http://rangevoting.org/UniqBest.html)(also known as olympic score voting) for both comments and discussions. Range voting is more expressive than simple :thumbsup: or :thumbsdown: votes.
+It uses [range voting](http://rangevoting.org/UniqBest.html) (also known as olympic score voting) for both comments and discussions. Range voting is more expressive than simple :thumbsup: or :thumbsdown: votes.
 
 It features:
 - A complete chat application with live updating, threaded discussion.
@@ -34,9 +34,13 @@ Join the subreddit: [/r/flowchat](https://www.reddit.com/r/flowchat/)
 ----
 
 ## Screenshots:
+
 <img src="http://i.imgur.com/lZBMsn5.png">
+
 <img src="http://i.imgur.com/hwNc0mx.png">
+
 <img src="http://i.imgur.com/JbOBf1h.png">
+
 <img src="http://i.imgur.com/chhvZwC.png">
 
 ## Installation 
